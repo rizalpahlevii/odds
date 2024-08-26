@@ -1,0 +1,16 @@
+{
+    "name": "rizalpahlevii/odds",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rizalpahlevii\\Odds\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rizal",
+            "email": "mrizalpahlevi372@gmail.com"
+        }
+    ],
+    "require": {}
+}
